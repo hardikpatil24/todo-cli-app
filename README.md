@@ -35,6 +35,7 @@ todo-cli-app/
     ```bash
     python main.py
 
+---
 
 🧠 Example Usage
     Welcome to the To-Do CLI App!
@@ -48,6 +49,7 @@ todo-cli-app/
     Enter your choice: 1
     Enter task description: Finish Python project
 
+---
 
 📦 Future Improvements
     Add due dates & priorities
@@ -55,14 +57,20 @@ todo-cli-app/
     Integrate with a calendar or notification system
     Create a web version using Flask or FastAPI
 
+---
 
 🤝 Contributing
     Pull requests are welcome! Feel free to fork this repo, make improvements, and submit a PR. Let's build something great together.
 
+---
 
 📄 License
     This project is licensed under the MIT License.
 
-Made with ☕ & 💻 by Hardik Patil
 ---
+
+Made with ☕ & 💻 by Hardik Patil
+
+---
+
 Let me know if you want to customize any section (like features or file structure) based on your actual 
